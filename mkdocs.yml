@@ -159,6 +159,7 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/mkdocs.md
+        - includes/abbreviations.md
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -180,6 +181,26 @@ not_in_nav: |
 # Page tree
 nav:
   - Home: index.md
+  - Raiser's Edge:
+    - raisers-edge/index.md
+    - Constituent Record Processes: 
+      - raisers-edge/constituents/index.md
+      - Defaults: raisers-edge/constituents/defaults.md
+      - Receipts / Acknowledgements: raisers-edge/constituents/receipts.md
+      - Deceased Constituents: raisers-edge/constituents/deceased.md
+      - Honor / Memorial: raisers-edge/constituents/honor.md
+      - Merges: raisers-edge/constituents/merges.md
+    - Lockbox:
+      - raisers-edge/lockbox/index.md
+      - Getting Started: raisers-edge/lockbox/import.md
+      - Gift Entry: raisers-edge/lockbox/gift-entry.md
+      - Commit and Audit: raisers-edge/lockbox/commit.md
+    - In House:
+      - raisers-edge/in-house/index.md
+      - Getting Started: raisers-edge/in-house/setup.md
+      - Gift Entry: raisers-edge/in-house/gift-entry.md
+      - Commit and Audit: raisers-edge/in-house/commit.md
+    - Classy: raisers-edge/classy.md
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
