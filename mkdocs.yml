@@ -200,7 +200,7 @@ nav:
         - Gift Entry: raisers-edge/gift-entry/in-house/gift-entry.md
         - Commit and Audit: raisers-edge/gift-entry/in-house/commit.md
       - Classy: 
-        - raisers-edge/gift-entry/classy.md
+        - raisers-edge/gift-entry/index.md
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
