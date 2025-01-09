@@ -187,17 +187,20 @@ nav:
       - Deceased Constituents: raisers-edge/constituents/deceased.md
       - Honor / Memorial: raisers-edge/constituents/honor.md
       - Merges: raisers-edge/constituents/merges.md
-    - Lockbox:
-      - raisers-edge/lockbox/index.md
-      - Getting Started: raisers-edge/lockbox/import.md
-      - Gift Entry: raisers-edge/lockbox/gift-entry.md
-      - Commit and Audit: raisers-edge/lockbox/commit.md
-    - In House:
-      - raisers-edge/in-house/index.md
-      - Getting Started: raisers-edge/in-house/setup.md
-      - Gift Entry: raisers-edge/in-house/gift-entry.md
-      - Commit and Audit: raisers-edge/in-house/commit.md
-    - Classy: raisers-edge/classy.md
+    - Gift Entry:
+      - raisers-edge/gift-entry/index.md
+      - Lockbox:
+        - raisers-edge/gift-entry/lockbox/index.md
+        - Getting Started: raisers-edge/gift-entry/lockbox/import.md
+        - Gift Entry: raisers-edge/gift-entry/lockbox/gift-entry.md
+        - Commit and Audit: raisers-edge/gift-entry/lockbox/commit.md
+      - In House:
+        - raisers-edge/gift-entry/in-house/index.md
+        - Getting Started: raisers-edge/gift-entry/in-house/setup.md
+        - Gift Entry: raisers-edge/gift-entry/in-house/gift-entry.md
+        - Commit and Audit: raisers-edge/gift-entry/in-house/commit.md
+      - Classy: 
+        - raisers-edge/gift-entry/classy.md
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
